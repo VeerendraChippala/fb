@@ -45,3 +45,22 @@ body{
     border-radius: 8px;
     padding-left: 0px;
 }
+@media all and (max-width: 959px) 
+{
+    .desktop {
+    display: block;
+    }
+    .mobile {
+    display: none;
+    }
+}
+@media all and (max-width: 479px) 
+{
+    .desktop {
+    display: none;
+    }
+    .mobile {
+    display: block;
+    }
+   
+}
