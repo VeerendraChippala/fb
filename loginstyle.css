@@ -5,11 +5,11 @@
     box-shadow: 0 10px 20px rgba(0,0,0,0.10), 0 6px 6px rgba(0,0,0,0.19);
 }
 img{
-    width: 240px; height: 80px;
+    width: 250px; height: 70px;
 }
 #main-container{
     text-align: center;
-    margin:4% 32% 1% 32% ;
+    margin:4vh 70vh 1vh 70vh ;
 }
 label{
     font-family: sans-serif;
